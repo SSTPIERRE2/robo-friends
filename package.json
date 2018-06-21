@@ -2,11 +2,14 @@
   "name": "robot-friends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sstpierre2.github.io/robot-friends",
+  "homepage": "http://sstpierre2.github.io/robo-friends",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
     "tachyons": "^4.9.1"
   },
   "scripts": {
